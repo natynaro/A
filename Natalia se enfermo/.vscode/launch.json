@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Seguimiento1Application<seguimiento1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sebas_seguimiento.seguimiento1.Seguimiento1Application",
+            "projectName": "seguimiento1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
